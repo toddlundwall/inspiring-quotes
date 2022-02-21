@@ -20,4 +20,6 @@ function scramble(str1, str2) {
 }
 
 
-console.log(scramble('rodlw','worrltd'))
+console.log(scramble('rodlw', 'worrltd'))
+console.log('new code'
+)
